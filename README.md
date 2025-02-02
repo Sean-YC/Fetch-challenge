@@ -1,5 +1,3 @@
-# Receipt Processor
-
 # **Receipt Processor API 🥾🚀**
 A simple RESTful API to process retail receipts and calculate reward points based on predefined rules.
 
